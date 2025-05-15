@@ -15,4 +15,4 @@ Repository for 2025 Digital Systems Coursework
 #### +) testbench
 t_파일은 testbench를 의미
 
-+) submodule은 top module과 같은 directory에서 실행.
+#### +) submodule은 top module과 같은 directory에서 실행.
